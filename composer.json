@@ -1,0 +1,14 @@
+{
+  "name": "nago/jp-address",
+  "autoload": {
+	"classmap": [
+		"src/Nago"
+	],
+    "psr-0": {
+      "JpAddress": "."
+    }
+  },
+  "require": {
+    "phpunit/phpunit": "^5.7"
+  }
+}
