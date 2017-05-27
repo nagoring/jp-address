@@ -1,7 +1,6 @@
 <?php
 namespace Nago\JpAddress;
 
-
 class Pref{
 	private static $prefs = [
 		'1' => '北海道',
