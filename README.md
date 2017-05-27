@@ -1,3 +1,4 @@
+[![License](https://poser.pugx.org/nagoring/jp-address/license)](https://packagist.org/packages/nagoring/jp-address)
 # jp-address
 
 jp-addressとは
