@@ -1,5 +1,6 @@
 {
   "name": "nagoring/jp-address",
+  "license": "MIT",
   "autoload": {
 	"classmap": [
 		"src/Nago"
