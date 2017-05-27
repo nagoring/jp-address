@@ -1,4 +1,11 @@
+
+[![Latest Stable Version](https://poser.pugx.org/nagoring/jp-address/v/stable)](https://packagist.org/packages/nagoring/jp-address)
+[![Total Downloads](https://poser.pugx.org/nagoring/jp-address/downloads)](https://packagist.org/packages/nagoring/jp-address)
+[![Latest Unstable Version](https://poser.pugx.org/nagoring/jp-address/v/unstable)](https://packagist.org/packages/nagoring/jp-address)
 [![License](https://poser.pugx.org/nagoring/jp-address/license)](https://packagist.org/packages/nagoring/jp-address)
+[![Monthly Downloads](https://poser.pugx.org/nagoring/jp-address/d/monthly)](https://packagist.org/packages/nagoring/jp-address)
+[![Daily Downloads](https://poser.pugx.org/nagoring/jp-address/d/daily)](https://packagist.org/packages/nagoring/jp-address)
+[![composer.lock](https://poser.pugx.org/nagoring/jp-address/composerlock)](https://packagist.org/packages/nagoring/jp-address)
 # jp-address
 
 jp-addressとは
