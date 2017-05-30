@@ -72,4 +72,9 @@ class Pref{
 		}
 		return false;
 	}
+	public function removePrefName($address){
+		$prefId = $this->addressToId($address);
+		$name = $this->idToName($prefId);
+		return str_replace($name, '', $address);
+	}
 }
