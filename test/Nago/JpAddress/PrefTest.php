@@ -32,4 +32,9 @@ class PrefTest extends \PHPUnit\Framework\TestCase{
 		$pref = Nago\JpAddress\Pref::getInstance();
 		$this->assertSame(false, $pref->addressToId('AAAAAAAAAAAAAAAAAAAA'));
 	}
+	public function test_removePrefName(){
+		$pref = Nago\JpAddress\Pref::getInstance();
+		$this->assertSame('奈良市雑司町４０６−１', $pref->removePrefName('奈良県奈良市雑司町４０６−１'));
+		$this->assertSame('文京区後楽１丁目３−６１', $pref->removePrefName('東京都文京区後楽１丁目３−６１'));
+	}
 }
